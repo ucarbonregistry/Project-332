@@ -23,4 +23,18 @@ TYPE:
 I - Renewable Energy Projects
 CATEGORY:
 AMS. I.D. (Title: “Grid connected renewable electricity generation”, version 18) 
+__________________
+ISSUE DATE: 10/01/2024
+__________________
+Serial Number: 0001-000001-000553-UCR-CoU-IN-332-27072022-31122022
+
+Vintage Year: 2022
+
+CoU's: 553
+____________________
+Serial Number: 0001-000554-001810-UCR-CoU-IN-332-01012023-30092023
+
+Vintage Year: 2023
+
+CoU's: 1257
 
